@@ -24,6 +24,13 @@ O teste de integração avalia a funcionalidade de vários módulos, unidades, q
 
 
 3)Testes funcionais e não funcionais.
+### Funcioinais
+A avaliação funcional, também conhecida como avaliação funcional do movimento humano, é um tipo de análise que identifica posturas erradas, disfunções e detecta vícios ou erros de movimentação durante um exercíci.
+
+### Não Funcionais
+Testes não-funcionais tem como objetivo testar aspectos do software que não são associados a funcionalidades mas sim a restrições. Tais testes visam verificar os requisitos que tendem a ser aqueles que “inspiram” a qualidade do sistema. Ex: escalabilidade, desempenho, segurança.
+
+
 
 4)Testes de ponta a ponta.
 
