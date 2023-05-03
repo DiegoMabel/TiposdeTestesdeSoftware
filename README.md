@@ -23,7 +23,7 @@ Feito geralmente pelo desenvolvedor.
 O teste de integração avalia a funcionalidade de vários módulos, unidades, quando integrados para formar uma única unidade. Este teste valida transições suaves entre vários componentes integrados do software. O objetivo do teste de integração é encontrar defeitos e falhas entre várias interfaces do software.
 
 
-3)Testes funcionais e não funcionais.
+3) Testes funcionais e não funcionais.
 ### Funcioinais
 A avaliação funcional, também conhecida como avaliação funcional do movimento humano, é um tipo de análise que identifica posturas erradas, disfunções e detecta vícios ou erros de movimentação durante um exercíci.
 
